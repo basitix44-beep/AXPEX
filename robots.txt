@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://basitix44-beep.github.io/AXPEX/sitemap.xml
